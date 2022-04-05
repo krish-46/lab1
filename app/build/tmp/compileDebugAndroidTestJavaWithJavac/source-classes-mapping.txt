@@ -1,0 +1,4 @@
+com/thebigoceaan/hellotoast/ExampleInstrumentedTest.java
+ com.thebigoceaan.hellotoast.ExampleInstrumentedTest
+com/thebigoceaan/hellotoast/test/BuildConfig.java
+ com.thebigoceaan.hellotoast.test.BuildConfig
